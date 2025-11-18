@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138524547044",
+    "project_id": "colourwalk-4f81e",
+    "storage_bucket": "colourwalk-4f81e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138524547044:android:3f8e83dc077ab558fbd9f1",
+        "android_client_info": {
+          "package_name": "com.example.colourwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138524547044-jk124l3e55toamcbgnlm3ijisq89mk2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.colourwalk",
+            "certificate_hash": "10a39080e03e4e5d3276110b058287239b6f10ae"
+          }
+        },
+        {
+          "client_id": "138524547044-otc65n59ukpeqkehk6vep75i0saaf8vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAot4u7y8Ymj0IoEpRLQltVTbBA-q6JXVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138524547044-otc65n59ukpeqkehk6vep75i0saaf8vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
